@@ -11,3 +11,15 @@
 ## Cool websites
 [Hypercalc](https://www.mrob.com/pub/comp/hypercalc/hypercalc-javascript.html)-An advanced calculator that displays numbers unconcievably larger than the ones shown in ordinary scientific calculators, I find it fascinating how my human mind cannot possibly wrap my head around them.  
 [Colordesigner](https://colordesigner.io/)- A website that lets you choose color combinations for various things, I like to mess around and see how different colors look together.
+
+```mermaid
+flowchart TD
+Start([Start]) --> End([End])
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+
+```
+
